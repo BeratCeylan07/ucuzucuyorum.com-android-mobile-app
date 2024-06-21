@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1027871632524",
+    "project_id": "ucuzucuyorum-4fc36",
+    "storage_bucket": "ucuzucuyorum-4fc36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027871632524:android:f71a094baec5894f321fa9",
+        "android_client_info": {
+          "package_name": "com.jsonyazilim.ucuzucuyorum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027871632524-04c58pf01eer7lha7d962stmkspg32sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHEyzVmsiFSAd0QAOC8Y0ghxusYBcXLMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027871632524-04c58pf01eer7lha7d962stmkspg32sf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1027871632524-6hvqaniv08hl3jd35pb7aa9amfivq36r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jsonyazilim.ucuzucuyorum"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
